@@ -6,4 +6,4 @@ Amazon価格変動したらLINE通知するボット
 
 # 実行関数のトリガー設定
 ![画像の説明](images/gas-trigger.png "hero")
-![画像の説明](images/gas-grigger2.png "hero")
+![画像の説明](images/gas-trigger.png "hero")
